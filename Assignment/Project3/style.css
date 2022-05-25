@@ -1,0 +1,19 @@
+*{
+    margin:30px;
+}
+.getbyid
+{
+     display:none;
+}
+ .insert
+{
+     display:none;
+}
+ .search
+{
+     display:none;
+}
+.container{
+    height:500px;
+    width:500px;
+}

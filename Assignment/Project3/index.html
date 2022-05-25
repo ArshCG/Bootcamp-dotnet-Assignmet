@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body id="body">
+    <button class="btn btn-primary" onclick="byid()">Get record By Id</button>
+    <div class="getbyid" id="getbyid1" >
+    <input type="text" placeholder="Enter ID" id="getid" >
+    
+    <button class="btn btn-success"  id="byid" onclick="getitems1()">Submit</button>
+    </div>
+    <br>
+    <br>
+    <button class="btn btn-primary" onclick="getitems()">Get all Records</button>
+    <br>
+    <br>
+    <button class="btn btn-primary" onclick="insert()">Insert a Record</button>
+    <div id="insert1" class="insert">
+    <input type="text" placeholder="Enter Name.." id="empname" >
+    <input type="text" placeholder="Enter Gender Male or female.." id="empgender"  >
+    <input type="text" placeholder="Enter Position.." id="emppos">
+    <input type="text" placeholder="Enter Project.." id="emppro" >
+    <button class="btn btn-success"  id="insert()" onclick="getitems2()">Submit</button>
+    </div>
+    <br>
+    <br>
+    <button class="btn btn-primary" onclick="search()">Search</button>
+    <div id="search1" class="search">
+    <input type="text" placeholder="Enter here" id="like">
+    <button class="btn btn-success"  id="search()" onclick="getitems3()">Submit</button>
+    </div>
+
+    <br>
+
+    <div id="table" >
+      
+    </div>
+    <script src="app.js"></script>
+    
+</body>
+</html>

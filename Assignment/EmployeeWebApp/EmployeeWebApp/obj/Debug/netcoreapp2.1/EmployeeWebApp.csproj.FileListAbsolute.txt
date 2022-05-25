@@ -1,0 +1,14 @@
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.deps.json
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.runtimeconfig.json
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.runtimeconfig.dev.json
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.dll
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.pdb
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.RazorAssemblyInfo.cache
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.RazorAssemblyInfo.cs
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.AssemblyInfoInputs.cache
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.AssemblyInfo.cs
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.dll
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.pdb
+C:\Users\arsh.bandlish\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.csprojAssemblyReference.cache
